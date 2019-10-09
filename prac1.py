@@ -15,3 +15,5 @@ class Square(Shape):
  
 s = Square(2)
 print(s.area())		# returns 4
+
+# That is all for today. See you tomorrow
