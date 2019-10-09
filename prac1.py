@@ -16,4 +16,12 @@ class Square(Shape):
 s = Square(2)
 print(s.area())		# returns 4
 
+
 # That is all for today. See you tomorrow
+
+r = Square(4)
+print(s.area())		# returns 16
+
+t = Square(5)
+print(s.area())		# returns 25
+
