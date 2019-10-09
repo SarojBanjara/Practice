@@ -18,3 +18,6 @@ print(s.area())		# returns 4
 
 r = Square(4)
 print(s.area())		# returns 16
+
+t = Square(5)
+print(s.area())		# returns 25
